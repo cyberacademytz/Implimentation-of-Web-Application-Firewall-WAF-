@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-WAF DEMO MANAGER  -  Author: www.tca.ac.tz  -  Version 1.0
+WAF DEMO MANAGER  -  Author: www.tca.ac.tz & SHERY -  Version 1.0
 
 Shows how a Web Application Firewall (ModSecurity + OWASP Core Rule Set) acts on attack traffic
 sent by an attacker machine against a deliberately vulnerable web app (OWASP Juice Shop).
